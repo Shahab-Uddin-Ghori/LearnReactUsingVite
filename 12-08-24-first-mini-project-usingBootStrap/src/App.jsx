@@ -1,6 +1,7 @@
 import PrimaryBtn from "./Primarybtn";
 import SecondaryBtn from "./secondaryBtn";
 import Cards from "./cards";
+import Nav from "./nav";
 const BootStrap = () => {
   return (
     <div>
@@ -8,6 +9,9 @@ const BootStrap = () => {
       <PrimaryBtn />
       <SecondaryBtn />
       <Cards />
+      <br />
+      <br />
+      <Nav />
     </div>
   );
 };
