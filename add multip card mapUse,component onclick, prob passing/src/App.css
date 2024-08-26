@@ -25,7 +25,6 @@
 }
 .Card:hover {
   scale: 1.08;
-  rotate: -1deg;
 }
 /* btn */
 button {
